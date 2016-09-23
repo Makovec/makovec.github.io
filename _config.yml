@@ -1,0 +1,14 @@
+# Site settings
+title: PowerShell.cz
+description: Get-World | ConvertTo-PowerShell
+url: https://makovec.github.io/
+baseurl: '/'
+
+author:
+  name: 'David Moravec'
+  github_username:  makovec
+  twitter_username: makovec
+  #email: finked@hotmail.com
+  #linkedin_username: douglasfinke
+
+exclude: ['README.md']  
