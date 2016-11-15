@@ -1,12 +1,31 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    <title>{{ page.title }}</title>
+    
+    <link rel="stylesheet" type="text/css" href="/css/main.css">
+  
+  </head>
+
 
   <body>
-    {% include header.html %}
-    
-    {{ content }}
+    <nav>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/blog">Blog</a></li>
+</ul>
+    </nav>
+<div class="container">
 
-    {% include footer.html %}
+  {{ content }}
+
+</div>
+  
+  <footer>
+   <ul>
+   <li><a href="https://github.com/makovec/makovec.github.io">github.com/makovec/makovec.github.io</a></li>
+   </ul>
+  </footer>
   </body>
+
 </html>
