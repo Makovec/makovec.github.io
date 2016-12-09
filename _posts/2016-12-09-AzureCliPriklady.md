@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "azure cli priklady"
+title:  "azure cli login - příklady"
 date:   2016-12-09 17:46
 comments: false
-description: "azure cli příklady"
+description: "azure cli login - příklady"
 categories: 
     - Azure
     - CLI
