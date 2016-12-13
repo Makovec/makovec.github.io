@@ -11,8 +11,6 @@ tags:
     - VM
 ---
 
-#Jak zjistit dostupné velikosti VM 
-
 Pro zjištění dostupných velikostí VM v Azure, lze použít PowerShell cmdlet `Get-AzureRmVMSize`
 
 ``` powershell
