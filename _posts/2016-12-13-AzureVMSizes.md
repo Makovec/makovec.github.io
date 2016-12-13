@@ -6,10 +6,12 @@ comments: false
 description: "Azure VM sizes"
 categories: 
     - PowerShell
-    Azure
+    - Azure
 tags: 
     - VM
 ---
+
+
 
 Pro zjištění dostupných velikostí VM v Azure, lze použít PowerShell cmdlet `Get-AzureRmVMSize`
 
