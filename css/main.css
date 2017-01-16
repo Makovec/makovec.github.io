@@ -27,3 +27,16 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+
+/* Tags */
+.tags a {
+  border: 1px solid #fff;
+  border-radius: 20px;
+  color: #fff;
+  display: inline-block;
+  font-size: 12px;
+  margin: 5px 0;
+  padding: 5px 10px;
+  text-shadow: none;
+  white-space: nowrap;
+}
