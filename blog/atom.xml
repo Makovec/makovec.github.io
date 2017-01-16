@@ -11,7 +11,6 @@ layout: feed
  <id>http://makovec.github.io/blog</id>
  <author>
    <name>Makovec</name>
-   <!-- <email>makovec@gmail.com</email> -->
  </author>
 
  {% for post in site.posts %}
