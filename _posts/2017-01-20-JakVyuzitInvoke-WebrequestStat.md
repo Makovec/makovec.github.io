@@ -28,5 +28,5 @@ offensive holding     58
 
 V NFL máme následující data:
 
-[](/images/posts/2017-01-20-NFLstat.png)
+![](/images/posts/2017-01-20-NFLstat.png)
 
