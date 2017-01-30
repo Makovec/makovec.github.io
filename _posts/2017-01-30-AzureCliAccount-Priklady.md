@@ -5,9 +5,9 @@ date:   2017-01-30 11:05
 comments: false
 description: "azure cli account - příklady"
 categories: 
-    - PowerShell
+    - azure
 tags: 
-    - PowerShell
+    - cli
 ---
 
 Pokud pod daným účtem můžete přistupovat do více subskripcí, je dobré se podívat na to, jak se mezi nimi přepínat.
